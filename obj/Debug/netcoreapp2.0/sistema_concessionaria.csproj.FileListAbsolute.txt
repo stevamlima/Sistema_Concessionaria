@@ -1,0 +1,10 @@
+/home/mate/Desktop/sistema_concessionaria/bin/Debug/netcoreapp2.0/sistema_concessionaria.deps.json
+/home/mate/Desktop/sistema_concessionaria/bin/Debug/netcoreapp2.0/sistema_concessionaria.runtimeconfig.json
+/home/mate/Desktop/sistema_concessionaria/bin/Debug/netcoreapp2.0/sistema_concessionaria.runtimeconfig.dev.json
+/home/mate/Desktop/sistema_concessionaria/bin/Debug/netcoreapp2.0/sistema_concessionaria.dll
+/home/mate/Desktop/sistema_concessionaria/bin/Debug/netcoreapp2.0/sistema_concessionaria.pdb
+/home/mate/Desktop/sistema_concessionaria/obj/Debug/netcoreapp2.0/sistema_concessionaria.csproj.CoreCompileInputs.cache
+/home/mate/Desktop/sistema_concessionaria/obj/Debug/netcoreapp2.0/sistema_concessionaria.AssemblyInfoInputs.cache
+/home/mate/Desktop/sistema_concessionaria/obj/Debug/netcoreapp2.0/sistema_concessionaria.AssemblyInfo.cs
+/home/mate/Desktop/sistema_concessionaria/obj/Debug/netcoreapp2.0/sistema_concessionaria.dll
+/home/mate/Desktop/sistema_concessionaria/obj/Debug/netcoreapp2.0/sistema_concessionaria.pdb
