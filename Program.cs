@@ -23,18 +23,13 @@ namespace sistema_concessionaria
                 case "1": //caso a variável 'op' for igual a UM, executa-se a funcao(PerguntaDados)
                 Console.Clear();
                 escolha.PerguntaDados();
-                Application ex = new Application();
-                ex.Workbooks.Add();
-                ex.Cells[1,1].Value = escolha.nome;
-                //ex.ActiveWorkbook.SaveAs(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\TESTE.xls");
-                ex.ActiveWorkbook.SaveAs("/home/mate/Desktop/TESTE.xls");
-                ex.Quit();
-                ex.Dispose();
+                escolha.SalvaDadosCliente();
                 break;
 
                 case "2": //caso a variável 'op' for igual a DOIS, executa-se a funcao(CadastraCarro)
                 Console.Clear();
                 dados.CadastraCarro();
+                dados.SalvaDadosCarro();
                 break;
             }
         }
